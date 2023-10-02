@@ -1,0 +1,229 @@
+<meta>
+	<oop>true</oop>
+	<min_mta_version client="1.5.6-9.16404" server="1.5.5-9.11915.0" />
+	<download_priority_group>-100</download_priority_group>
+
+	<include resource="queenFonts" />
+	<include resource="queenTextures" />
+	<include resource="queenShaders" />
+
+	<!-- RADAR -->
+
+	<file src="assets/imgRadar/radar_mask.png" />
+	<file src="assets/imgRadar/radar_cover.png" />
+	<file src="assets/imgRadar/radar_damag.png" />
+	<file src="assets/imgRadar/icon_car.png" />
+	<file src="assets/imgRadar/icon_gps.png" />
+	<file src="assets/imgRadar/icon_point.png" />
+
+	<file src="assets/imgRadar/map/radar0.png" />
+	<file src="assets/imgRadar/map/radar1.png" />
+	<file src="assets/imgRadar/map/radar2.png" />
+	<file src="assets/imgRadar/map/radar3.png" />
+	<file src="assets/imgRadar/map/radar4.png" />
+	<file src="assets/imgRadar/map/radar5.png" />
+	<file src="assets/imgRadar/map/radar6.png" />
+	<file src="assets/imgRadar/map/radar7.png" />
+	<file src="assets/imgRadar/map/radar8.png" />
+	<file src="assets/imgRadar/map/radar9.png" />
+	<file src="assets/imgRadar/map/radar10.png" />
+	<file src="assets/imgRadar/map/radar11.png" />
+	<file src="assets/imgRadar/map/radar12.png" />
+	<file src="assets/imgRadar/map/radar13.png" />
+	<file src="assets/imgRadar/map/radar14.png" />
+	<file src="assets/imgRadar/map/radar15.png" />
+	<file src="assets/imgRadar/map/radar16.png" />
+	<file src="assets/imgRadar/map/radar17.png" />
+	<file src="assets/imgRadar/map/radar18.png" />
+	<file src="assets/imgRadar/map/radar19.png" />
+	<file src="assets/imgRadar/map/radar20.png" />
+	<file src="assets/imgRadar/map/radar21.png" />
+	<file src="assets/imgRadar/map/radar22.png" />
+	<file src="assets/imgRadar/map/radar23.png" />
+	<file src="assets/imgRadar/map/radar24.png" />
+	<file src="assets/imgRadar/map/radar25.png" />
+	<file src="assets/imgRadar/map/radar26.png" />
+	<file src="assets/imgRadar/map/radar27.png" />
+	<file src="assets/imgRadar/map/radar28.png" />
+	<file src="assets/imgRadar/map/radar29.png" />
+	<file src="assets/imgRadar/map/radar30.png" />
+	<file src="assets/imgRadar/map/radar31.png" />
+	<file src="assets/imgRadar/map/radar32.png" />
+	<file src="assets/imgRadar/map/radar33.png" />
+	<file src="assets/imgRadar/map/radar34.png" />
+	<file src="assets/imgRadar/map/radar35.png" />
+	<file src="assets/imgRadar/map/radar36.png" />
+	<file src="assets/imgRadar/map/radar37.png" />
+	<file src="assets/imgRadar/map/radar38.png" />
+	<file src="assets/imgRadar/map/radar39.png" />
+	<file src="assets/imgRadar/map/radar40.png" />
+	<file src="assets/imgRadar/map/radar41.png" />
+	<file src="assets/imgRadar/map/radar42.png" />
+	<file src="assets/imgRadar/map/radar43.png" />
+	<file src="assets/imgRadar/map/radar44.png" />
+	<file src="assets/imgRadar/map/radar45.png" />
+	<file src="assets/imgRadar/map/radar46.png" />
+	<file src="assets/imgRadar/map/radar47.png" />
+	<file src="assets/imgRadar/map/radar48.png" />
+	<file src="assets/imgRadar/map/radar49.png" />
+	<file src="assets/imgRadar/map/radar50.png" />
+	<file src="assets/imgRadar/map/radar51.png" />
+	<file src="assets/imgRadar/map/radar52.png" />
+	<file src="assets/imgRadar/map/radar53.png" />
+	<file src="assets/imgRadar/map/radar54.png" />
+	<file src="assets/imgRadar/map/radar55.png" />
+	<file src="assets/imgRadar/map/radar56.png" />
+	<file src="assets/imgRadar/map/radar57.png" />
+	<file src="assets/imgRadar/map/radar58.png" />
+	<file src="assets/imgRadar/map/radar59.png" />
+	<file src="assets/imgRadar/map/radar60.png" />
+	<file src="assets/imgRadar/map/radar61.png" />
+	<file src="assets/imgRadar/map/radar62.png" />
+	<file src="assets/imgRadar/map/radar63.png" />
+	<file src="assets/imgRadar/map/radar64.png" />
+	<file src="assets/imgRadar/map/radar65.png" />
+	<file src="assets/imgRadar/map/radar66.png" />
+	<file src="assets/imgRadar/map/radar67.png" />
+	<file src="assets/imgRadar/map/radar68.png" />
+	<file src="assets/imgRadar/map/radar69.png" />
+	<file src="assets/imgRadar/map/radar70.png" />
+	<file src="assets/imgRadar/map/radar71.png" />
+	<file src="assets/imgRadar/map/radar72.png" />
+	<file src="assets/imgRadar/map/radar73.png" />
+	<file src="assets/imgRadar/map/radar74.png" />
+	<file src="assets/imgRadar/map/radar75.png" />
+	<file src="assets/imgRadar/map/radar76.png" />
+	<file src="assets/imgRadar/map/radar77.png" />
+	<file src="assets/imgRadar/map/radar78.png" />
+	<file src="assets/imgRadar/map/radar79.png" />
+	<file src="assets/imgRadar/map/radar80.png" />
+	<file src="assets/imgRadar/map/radar81.png" />
+	<file src="assets/imgRadar/map/radar82.png" />
+	<file src="assets/imgRadar/map/radar83.png" />
+	<file src="assets/imgRadar/map/radar84.png" />
+	<file src="assets/imgRadar/map/radar85.png" />
+	<file src="assets/imgRadar/map/radar86.png" />
+	<file src="assets/imgRadar/map/radar87.png" />
+	<file src="assets/imgRadar/map/radar88.png" />
+	<file src="assets/imgRadar/map/radar89.png" />
+	<file src="assets/imgRadar/map/radar90.png" />
+	<file src="assets/imgRadar/map/radar91.png" />
+	<file src="assets/imgRadar/map/radar92.png" />
+	<file src="assets/imgRadar/map/radar93.png" />
+	<file src="assets/imgRadar/map/radar94.png" />
+	<file src="assets/imgRadar/map/radar95.png" />
+	<file src="assets/imgRadar/map/radar96.png" />
+	<file src="assets/imgRadar/map/radar97.png" />
+	<file src="assets/imgRadar/map/radar98.png" />
+	<file src="assets/imgRadar/map/radar99.png" />
+	<file src="assets/imgRadar/map/radar100.png" />
+	<file src="assets/imgRadar/map/radar101.png" />
+	<file src="assets/imgRadar/map/radar102.png" />
+	<file src="assets/imgRadar/map/radar103.png" />
+	<file src="assets/imgRadar/map/radar104.png" />
+	<file src="assets/imgRadar/map/radar105.png" />
+	<file src="assets/imgRadar/map/radar106.png" />
+	<file src="assets/imgRadar/map/radar107.png" />
+	<file src="assets/imgRadar/map/radar108.png" />
+	<file src="assets/imgRadar/map/radar109.png" />
+	<file src="assets/imgRadar/map/radar110.png" />
+	<file src="assets/imgRadar/map/radar111.png" />
+	<file src="assets/imgRadar/map/radar112.png" />
+	<file src="assets/imgRadar/map/radar113.png" />
+	<file src="assets/imgRadar/map/radar114.png" />
+	<file src="assets/imgRadar/map/radar115.png" />
+	<file src="assets/imgRadar/map/radar116.png" />
+	<file src="assets/imgRadar/map/radar117.png" />
+	<file src="assets/imgRadar/map/radar118.png" />
+	<file src="assets/imgRadar/map/radar119.png" />
+	<file src="assets/imgRadar/map/radar120.png" />
+	<file src="assets/imgRadar/map/radar121.png" />
+	<file src="assets/imgRadar/map/radar122.png" />
+	<file src="assets/imgRadar/map/radar123.png" />
+	<file src="assets/imgRadar/map/radar124.png" />
+	<file src="assets/imgRadar/map/radar125.png" />
+	<file src="assets/imgRadar/map/radar126.png" />
+	<file src="assets/imgRadar/map/radar127.png" />
+	<file src="assets/imgRadar/map/radar128.png" />
+	<file src="assets/imgRadar/map/radar129.png" />
+	<file src="assets/imgRadar/map/radar130.png" />
+	<file src="assets/imgRadar/map/radar131.png" />
+	<file src="assets/imgRadar/map/radar132.png" />
+	<file src="assets/imgRadar/map/radar133.png" />
+	<file src="assets/imgRadar/map/radar134.png" />
+	<file src="assets/imgRadar/map/radar135.png" />
+	<file src="assets/imgRadar/map/radar136.png" />
+	<file src="assets/imgRadar/map/radar137.png" />
+	<file src="assets/imgRadar/map/radar138.png" />
+	<file src="assets/imgRadar/map/radar139.png" />
+	<file src="assets/imgRadar/map/radar140.png" />
+	<file src="assets/imgRadar/map/radar141.png" />
+	<file src="assets/imgRadar/map/radar142.png" />
+	<file src="assets/imgRadar/map/radar143.png" />
+	
+	<!-- SPEED -->
+	<file src="assets/imgSpeed/s_speedo.png" />
+	<file src="assets/imgSpeed/s_tahometer.png" />
+	<file src="assets/imgSpeed/s_fuel.png" />
+	<file src="assets/imgSpeed/s_fuel_a.png" />
+	<file src="assets/imgSpeed/needle_s.png" />
+	<file src="assets/imgSpeed/needle_t.png" />
+
+	<file src="assets/imgSpeed/f_mask.png" />
+	<file src="assets/imgSpeed/s_mask.png" />
+	<file src="assets/imgSpeed/t_mask.png" />
+	<file src="assets/imgSpeed/s_circle1.png" />
+	<file src="assets/imgSpeed/s_circle2.png" />
+	<file src="assets/imgSpeed/s_circle3.png" />
+	<file src="assets/imgSpeed/t_circle1.png" />
+	<file src="assets/imgSpeed/t_circle2.png" />
+
+	<file src="assets/imgSpeed/turnlight_l.png" />
+	<file src="assets/imgSpeed/turnlight_l_a.png" />
+
+	<file src="assets/imgSpeed/turnlight_r.png" />
+	<file src="assets/imgSpeed/turnlight_r_a.png" />
+
+	<file src="assets/imgSpeed/engine_off.png" />
+	<file src="assets/imgSpeed/engine_on.png" />
+
+	<file src="assets/imgSpeed/cc_off.png" />
+	<file src="assets/imgSpeed/cc_on.png" />
+
+	<file src="assets/imgSpeed/door_open.png" />
+	<file src="assets/imgSpeed/door_close.png" />
+
+	<file src="assets/imgSpeed/lights_off.png" />
+	<file src="assets/imgSpeed/lights_on.png" />
+
+	<file src="assets/imgSpeed/fuel.png" />	
+	<file src="assets/imgSpeed/fuel_empty.png" />	
+	<file src="assets/imgSpeed/fuel_no.png" />	
+
+	<file src="assets/imgSpeed/checkengine.png" />
+	<file src="assets/imgSpeed/rent.png" />
+
+	<!-- HUD -->
+	<file src="assets/imgHUD/hud_bg.png" />
+	<file src="assets/imgHUD/hud_e.png" />
+	<file src="assets/imgHUD/hud_eat.png" />
+	<file src="assets/imgHUD/hud_h.png" />
+	<file src="assets/imgHUD/hud_heal.png" />
+	<file src="assets/imgHUD/hud_l.png" />
+	<file src="assets/imgHUD/hud_l_low.png" />
+	<file src="assets/imgHUD/hud_level.png" />
+	<file src="assets/imgHUD/hud_low.png" />
+	<file src="assets/imgHUD/hud_m.png" />
+
+	<!-- -->
+	<file src="assets/project.png" />
+
+	<!-- SCRIPTS -->
+
+	<script type="client" cache="false" src="client/hud_radar.lua" />
+	<script type="client" cache="false" src="client/hud_speed.lua" />
+	<script type="client" cache="false" src="client/hud_project.lua" />
+	<script type="client" cache="false" src="client/hud_hud.lua" />
+
+	<script type="client" cache="false" src="main.lua" />
+</meta>

@@ -1,0 +1,23 @@
+<meta>
+	<oop>true</oop>
+
+	<file src="assets/img/BURHEAL.png" />
+	<file src="assets/img/BURHIG.png" />
+	<file src="assets/img/BURLOW.png" />
+	<file src="assets/img/BURMED.png" />
+
+	<file src="assets/img/CLUHEAL.png" />
+	<file src="assets/img/CLUHIG.png" />
+	<file src="assets/img/CLULOW.png" />
+	<file src="assets/img/CLUMED.png" />
+
+	<file src="assets/img/PIZHEAL.png" />
+	<file src="assets/img/PIZHIG.png" />
+	<file src="assets/img/PIZLOW.png" />
+	<file src="assets/img/PIZMED.png" />
+
+	<script type='shared' cache='false' src='assets/shared.lua' />
+	<script type='client' cache='false' src='client/client.lua' />
+	
+	<script type='server' src='server/server.lua' />
+</meta>

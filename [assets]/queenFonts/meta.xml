@@ -1,0 +1,19 @@
+<meta>
+	<oop>true</oop>
+	<min_mta_version client="1.5.6-9.16404" server="1.5.5-9.11915.0" />
+	<download_priority_group>99</download_priority_group>
+
+	<file src="assets/Roboto-Bold.ttf" />
+	<file src="assets/Roboto-Regular.ttf" />
+
+	<file src="assets/GothaProBol.otf" />
+	<file src="assets/GothaProMed.otf" />
+	<file src="assets/GothaProReg.otf" />
+	<file src="assets/SPEED_0.ttf" />
+
+	<script type="client" cache="false" src="exports.lua" />
+
+	<export type="client" function="createFontDX" />
+	<export type="client" function="createFontGUI" />
+
+</meta>

@@ -1,0 +1,30 @@
+<meta>
+	<oop>true</oop>
+	<min_mta_version client="1.5.6-9.16404" server="1.5.5-9.11915.0" />
+	<download_priority_group>99</download_priority_group>
+
+	<file src="assets/mta-helper.fx" />
+
+	<file src="assets/blur.fx" />
+	<file src="assets/mask3d.fx" />
+	<file src="assets/tex_matrix.fx" />
+	<file src="assets/blackwhite.fx" />
+	<file src="assets/damage.fx" />
+	<file src="assets/texreplace.fx" />
+	<file src="assets/turnsignal.fx" />
+
+	<file src="assets/tex_toner.fx" />
+	<file src="assets/car_refgrun.fx" />
+
+	<file src="assets/vehPaint/car_paint.fx" />
+	<file src="assets/vehPaint/chameleo.fx" />
+	<file src="assets/vehPaint/gloss.fx" />
+	<file src="assets/vehPaint/matte.fx" />
+
+
+	<script type="client" cache="false" src="export.lua" />
+	<script type="client" cache="false" src="blurScreen.lua" />
+
+
+	<export type="client" function="createShader" />
+</meta>

@@ -1,0 +1,5 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (Lae2_roads89) (1)" radius="34.40779876709" interior="0" model="17613" lodModel="17858" posX="2489.29688" posY="-1668.5" posZ="12.29688" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (drivingschlgrg_SFS) (1)" radius="31.869302749634" interior="0" model="11014" lodModel="11372" posX="-2076.4375" posY="-107.92969" posZ="36.96875" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (burgalrydoor_SFS) (1)" radius="5.6505537033081" interior="0" model="11102" lodModel="0" posX="-2102.86182" posY="-17.04535" posZ="36.02761" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>

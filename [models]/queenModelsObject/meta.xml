@@ -1,0 +1,20 @@
+<meta>
+	<script type="client" src="main.lua"/>
+	
+	<file src='assets/autoschool_sf.txd' /> 
+    <file src='assets/autoschool_sf.dff' /> 
+    <file src='assets/autoschool_sf.col' /> 
+<!--
+	<file src='assets/triangle.txd' /> 
+    <file src='assets/triangle.dff' /> 
+    <file src='assets/triangle.col' /> 
+   
+	<file src='assets/paint_garage.txd' /> 
+    <file src='assets/paint_garage.dff' /> 
+    <file src='assets/paint_garage.col' /> 
+
+    <file src='assets/tun_garage.txd' /> 
+    <file src='assets/tun_garage.dff' /> 
+    <file src='assets/tun_garage.col' /> 
+-->
+</meta>

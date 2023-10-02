@@ -1,0 +1,19 @@
+<meta>
+	<oop>true</oop>
+	<min_mta_version client="1.5.6-9.16404" server="1.5.5-9.11915.0" />
+	<download_priority_group>1000</download_priority_group>
+
+	<script type="shared" cache="false" src="skin_list.lua"/>
+	<script type="shared" cache="false" src="spawn_position.lua"/>
+	<script type="shared" cache="false" src="pl_config.lua"/>
+	<script type="shared" cache="false" src="location_list.lua"/>
+
+	<script type="shared" cache="false" src="vehicles/name_list.lua"/>
+
+	<export type="shared" function="getCharacterSkins" />
+	<export type="shared" function="getSpawnCity" />
+	<export type="shared" function="getPlayerStartSettings" />
+	<export type="shared" function="getLocationList" />
+
+	<export type="shared" function="getVehiclesNameList" />
+</meta>

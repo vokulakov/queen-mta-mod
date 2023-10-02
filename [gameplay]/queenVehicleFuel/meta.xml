@@ -1,0 +1,31 @@
+<meta>
+	<oop>true</oop>
+
+	<file src="assets/img/gui_oils_fon.png" />
+	<file src="assets/img/button_close.png" />
+	<file src="assets/img/button_fill.png" />
+	<file src="assets/img/button_fill_a.png" />
+	<file src="assets/img/gui_bar.png" />
+	<file src="assets/img/gui_bar_active_left.png" />
+	<file src="assets/img/gui_bar_round.png" />
+	<file src="assets/img/pane.png" />
+
+	<file src="assets/img/gui_radio_button.png" />
+	<file src="assets/img/gui_radio_button_active.png" />
+	
+	<file src="assets/img/gui_oils_fuelcan.png" />
+	<file src="assets/img/gui_oils_fuelcan_active.png" />
+
+	<file src="assets/garageData.xml" />
+	<file src="assets/carData.xml" />
+	
+	<script type="shared" src="assets/shared.lua" cache="false" />
+	<script type="client" src="client/guiProgressBar.lua" cache="false" />
+	<script type="client" src="client/guiRadioButton.lua" cache="false" />
+	<script type="client" src="client/UI.lua" cache="false" />
+	
+	<script type="client" src="client/client.lua" cache="false" />
+
+	<script type="server" src="server/server.lua" />
+
+</meta>

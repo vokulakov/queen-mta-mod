@@ -1,0 +1,8 @@
+<meta>
+	<oop>true</oop>
+	<download_priority_group>120</download_priority_group>
+
+	<script type="shared" src="assets/setups.lua" cache = "false" />
+	<script type="client" src="client/client.lua" cache = "false" />
+	<script type="server" src="server/startup.lua"/>
+</meta>

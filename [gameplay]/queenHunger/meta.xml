@@ -1,0 +1,8 @@
+<meta>
+	<oop>true</oop>
+	
+	<script type='client' cache='false' src='client/client.lua' />
+	<script type='server' src='server/server.lua' />
+
+	<export type="server" function="setPlayerHungerData" />
+</meta>

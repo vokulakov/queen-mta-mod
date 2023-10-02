@@ -1,0 +1,10 @@
+<meta>
+	<min_mta_version client="1.5.6-9.16404" server="1.5" />
+	
+	<file src="assets/4.png" />
+	<file src="assets/Flare.png" />
+	<file src="assets/on.png" />
+	<file src="assets/5.png" />
+	
+	<script src="main.lua" type="client" cache="false" />
+</meta>

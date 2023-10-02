@@ -1,0 +1,6 @@
+<meta>
+	<min_mta_version client="1.5.6-9.16404" server="1.5.5-9.11915.0" />
+	<oop>true</oop>
+	<script type="client" src="main.lua" cache="false" /> 
+	<script type="server" src="server.lua" />
+</meta>

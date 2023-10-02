@@ -1,0 +1,84 @@
+<car>
+		<!-- ПРИМЕР ДОБАВЛЕНИЯ ТРАНСПОРТА В СИСТЕМУ
+		<data id="ID ТРАНСПОРТА" fuel="ОБЪЁМ БАКА" type="ТИП ТОПЛИВА" />
+
+		ТИПЫ ТОПЛИВА: 
+		1 - 92
+		2 - 95
+		3 - ДТ 
+	-->
+
+	<data id="0" fuel="200" type="{1, 2, 3}" />  <!-- Default -->
+	
+	<data id="602" fuel="250" type="{ 1 }" /> 	<!-- Alpha -->
+	<data id="496" fuel="250" type="{ 1 }" /> 	<!-- Blista -->
+	<data id="517" fuel="250" type="{ 1 }" /> 	<!-- Majestic -->
+	<data id="401" fuel="250" type="{ 1 }" /> 	<!-- Bravura -->
+	<data id="410" fuel="250" type="{ 1 }" /> 	<!-- Manana -->
+	<data id="518" fuel="250" type="{ 1 }" /> 	<!-- Buccaneer -->
+	<data id="600" fuel="250" type="{ 1 }" /> 	<!-- Picador -->
+	<data id="527" fuel="250" type="{ 1 }" /> 	<!-- Cadrona -->
+	<data id="436" fuel="250" type="{ 1 }" /> 	<!-- Previon -->
+	<data id="589" fuel="250" type="{ 1 }" /> 	<!-- Club -->
+	<data id="580" fuel="300" type="{ 1 }" /> 	<!-- Stafford -->
+	<data id="419" fuel="250" type="{ 1 }" /> 	<!-- Esperanto -->
+	<data id="439" fuel="250" type="{ 1 }" /> 	<!-- Stallion -->
+	<data id="533" fuel="250" type="{ 1 }" /> 	<!-- Feltzer -->
+	<data id="549" fuel="250" type="{ 1 }" /> 	<!-- Tampa -->
+	<data id="526" fuel="250" type="{ 1 }" /> 	<!-- Fortune -->
+	<data id="491" fuel="250" type="{ 1 }" /> 	<!-- Virgo -->
+	<data id="474" fuel="250" type="{ 1 }" /> 	<!-- Hermes -->
+    <data id="535" fuel="250" type="{ 1 }" /> 	<!-- Slamvan -->
+    <data id="431" fuel="300" type="{ 1 }" /> 	<!-- Bus -->
+    <data id="420" fuel="300" type="{ 1 }" /> 	<!-- Taxi -->
+
+	<data id="479" fuel="250" type="{ 1 }" /> 	<!-- Regina -->
+	<data id="445" fuel="250" type="{ 1 }" /> 	<!-- Admiral -->
+	<data id="604" fuel="250" type="{ 1 }" /> 	<!-- Glendale -->
+	<data id="507" fuel="300" type="{ 1 }" /> 	<!-- Elegant -->
+	<data id="585" fuel="300" type="{ 1 }" /> 	<!-- Emperor -->
+	<data id="587" fuel="250" type="{ 1 }" /> 	<!-- Euros -->
+	<data id="466" fuel="300" type="{ 1 }" /> 	<!-- Glendale -->
+	<data id="492" fuel="250" type="{ 1 }" /> 	<!-- Greenwood -->
+	<data id="503" fuel="250" type="{ 1 }" /> 	<!-- Hotring Racer 2 -->
+	<data id="400" fuel="300" type="{ 1 }" /> 	<!-- Land stalker -->
+	<data id="579" fuel="300" type="{ 1 }" /> 	<!-- Huntley -->
+	<data id="545" fuel="300" type="{ 1 }" /> 	<!-- Hustler -->
+	<data id="546" fuel="300" type="{ 1 }" /> 	<!-- Intruder -->
+	<data id="551" fuel="250" type="{ 1 }" /> 	<!-- Merit -->
+	<data id="516" fuel="250" type="{ 1 }" /> 	<!-- Nebula -->
+	<data id="467" fuel="250" type="{ 1 }" /> 	<!-- Oceanic -->
+	<data id="529" fuel="250" type="{ 1 }" /> 	<!-- Willard -->
+	<data id="598" fuel="250" type="{ 1 }" /> 	<!-- Pilice LV -->
+	<data id="596" fuel="250" type="{ 1 }" /> 	<!-- Pilice LS -->
+	<data id="404" fuel="350" type="{ 1 }" /> 	<!-- Perennial -->
+	<data id="547" fuel="300" type="{ 1 }" /> 	<!-- Primo -->
+	<data id="495" fuel="250" type="{ 1 }" /> 	<!-- Sandking -->
+	<data id="405" fuel="250" type="{ 1 }" /> 	<!-- Sentinel -->
+	<data id="409" fuel="250" type="{ 1 }" /> 	<!-- Stretch -->
+	<data id="550" fuel="250" type="{ 1 }" /> 	<!-- Sunrise -->
+	<data id="566" fuel="250" type="{ 1 }" /> 	<!-- Tahoma -->
+	<data id="402" fuel="250" type="{ 1 }" /> 	<!-- Buffalo -->
+	<data id="470" fuel="250" type="{ 1 }" /> 	<!-- Patriot -->
+	<data id="540" fuel="300" type="{ 1 }" /> 	<!-- Vincent -->
+	<data id="421" fuel="300" type="{ 1 }" /> 	<!-- Washington -->
+	<data id="478" fuel="300" type="{ 1 }" /> 	<!-- Walton -->
+	<data id="413" fuel="300" type="{ 1 }" /> 	<!-- Mustang -->
+	<data id="490" fuel="250" type="{ 1 }" /> 	<!-- Mercedes 221 -->
+	<data id="517" fuel="250" type="{ 1 }" /> 	<!-- Mustang -->
+    <data id="475" fuel="300" type="{ 1 }" /> 	<!-- Mustang -->
+    <data id="536" fuel="250" type="{ 1 }" /> 	<!-- Blade -->
+    <data id="494" fuel="300" type="{ 1 }" /> 	<!-- Hotring Racer -->
+    <data id="542" fuel="250" type="{ 1 }" /> 	<!-- Clover --> 
+    <data id="558" fuel="300" type="{ 1 }" /> 	<!-- Uranus -->
+    <data id="480" fuel="300" type="{ 1 }" /> 	<!-- Comet -->
+    <data id="534" fuel="300" type="{ 1 }" /> 	<!-- Remington -->
+    <data id="576" fuel="250" type="{ 1 }" /> 	<!-- Tornado -->
+    <data id="451" fuel="250" type="{ 1 }" /> 	<!-- Turismo -->
+    <data id="429" fuel="250" type="{1, 2, 3}" /> 	<!-- Banshee -->
+    <data id="506" fuel="250" type="{ 1 }" /> 	<!-- Super GT -->
+	<data id="505" fuel="250" type="{ 1 }" /> 	<!-- Rancher Lure -->
+	<data id="438" fuel="300" type="{ 1 }" /> 	<!-- Cabbie -->
+    <data id="555" fuel="300" type="{ 1 }" /> 	<!-- Windsor -->
+    <data id="426" fuel="250" type="{ 1 }" /> 	<!-- Premier -->
+</car>

@@ -1,0 +1,18 @@
+<meta>
+	<oop>true</oop>
+	<min_mta_version client="1.5.6-9.16404" server="1.5.5-9.11915.0" />
+	<download_priority_group>99</download_priority_group>
+
+	<include resource="queenFonts"/>
+	<include resource="queenTextures"/>
+
+	<!-- CLIENT -->
+	<script type="client" cache="false" src="client/drawHelpButton.lua" />
+	<script type="client" cache="false" src="client/drawControl.lua" />
+	<script type="client" cache="false" src="client/drawPane.lua" />
+	<script type="client" cache="false" src="client/drawNotify.lua" />
+
+	<export type="client" function="drawHelpButton" />
+	<export type="client" function="drawRectangle" />
+	<export type="client" function="setRectangleSize"/>
+</meta>

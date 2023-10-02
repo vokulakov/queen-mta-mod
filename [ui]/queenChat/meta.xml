@@ -1,0 +1,12 @@
+<meta>
+	<oop>true</oop>
+	<download_priority_group>99</download_priority_group>
+
+	<script type="client" cache="false" src="client/AntiFlood.lua" />
+	<script type="client" cache="false" src="client/WordsFilter.lua" />
+	<script type="client" cache="false" src="client/Chat.lua" />
+	<script type="client" cache="false" src="client/Input.lua" />
+	<script type="client" cache="false" src="client/basic_chat.lua" />
+
+	<script type="server" src="server/basic_chat.lua" />
+</meta>

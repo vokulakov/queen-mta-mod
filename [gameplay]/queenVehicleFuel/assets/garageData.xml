@@ -1,0 +1,121 @@
+<data>
+	<garage name="Fort Carson" x="70.4" y="1218.5" z="16">
+		<pump x="64" y="1220" z="18.8" />
+		<pump x="70.4" y="1218.5" z="18.8" />
+		<pump x="76.8" y="1217" z="18.8" />
+	</garage>
+
+	<garage name="Entrance LV" x="2120" y="923" z="11">
+		<pump x="2110" y="923" z="10.8" />
+        <pump x="2115" y="923" z="10.8" />
+		<pump x="2120" y="923" z="10.8" />
+		<pump x="2110" y="912" z="10.8" />
+                <pump x="2115" y="912" z="10.8" />
+		<pump x="2120" y="912" z="10.8" />
+	</garage>
+
+	<garage name="near Police LV" x="413" y="2467" z="16">
+		<pump x="413" y="2467" z="16.5" />
+		<pump x="413" y="2462" z="16.5" />
+                <pump x="2205" y="2470" z="11" />
+		<pump x="2205" y="2470" z="11" />
+	</garage>
+
+	<garage name="near Stade LV" x="1602" y="182" z="33">
+		<pump x="1603" y="180" z="33.8" />
+		<pump x="1605" y="188" z="33.8" />
+		<pump x="1597" y="190" z="33.8" />
+		<pump x="1595" y="182" z="33.8" />
+		<pump x="1587" y="184" z="33.8" />
+		<pump x="1589" y="192.3" z="33.8" />
+	</garage>
+
+	<garage name="near villas in LV" x="2141.9211425781" y="2755.2111816406" z="11">
+		<pump x="2142" y="2740" z="10.8" />
+		<pump x="2147" y="2740" z="10.8" />
+		<pump x="2152" y="2740" z="10.8" />
+		<pump x="2142" y="2750" z="10.8" />
+		<pump x="2147" y="2750" z="10.8" />
+		<pump x="2152" y="2750" z="10.8" />
+	</garage>
+
+	<garage name="Station" x="-1329" y="2671" z="50">
+		<pump x="-1329" y="2671" z="50" />
+		<pump x="-1328" y="2677" z="50" />
+		<pump x="-1327" y="2683" z="50" />
+	</garage>
+
+	<garage name="sf 2" x="-2413" y="970" z="45">
+                <pump x="-2408" y="970" z="45.5" />
+		<pump x="-2408" y="980" z="45.5" />
+	</garage>
+
+	<garage name="WHETSTONE" x="-2244" y="-2561" z="31">
+		<pump x="-2244" y="-2561" z="313" />
+		<pump x="-2248" y="-2558" z="31.8" />
+	</garage>
+
+	<garage name="Dollimoure" x="653" y="-570" z="16">
+		<pump x="653" y="-570" z="16.3" />
+		<pump x="658" y="-570" z="16.3" />
+		<pump x="653" y="-560" z="16.3" />
+		<pump x="658" y="-560" z="16.3" />
+	</garage>
+
+	<garage name="LS ENTRANCE" x="-94" y="-1161" z="2">
+		<pump x="-94" y="-1161" z="2.3" />
+		<pump x="-99" y="-1173" z="2.3" />
+		<pump x="-93" y="-1176" z="2.3" />
+		<pump x="-88" y="-1165" z="2.3" />
+	</garage>
+
+	<garage name="LS IGS" x="1945" y="-1771" z="12">
+		<pump x="1944" y="-1769" z="13.4" />
+		<pump x="1939" y="-1769" z="13.4" />
+		<pump x="1939" y="-1776" z="13.4" />
+		<pump x="1944" y="-1776" z="13.4" />
+	</garage>
+
+	<garage name="LS 3" x="1008" y="-939" z="40">
+		<pump x="1008" y="-939" z="42.2" />
+		<pump x="1008" y="-933" z="42.2" />
+		<pump x="1000" y="-940" z="42.2" />
+		<pump x="1000" y="-934" z="42.2" />
+	</garage>
+
+	<garage name="highway SF LS" x="-1602" y="-2710" z="48">
+		<pump x="-1600" y="-2706" z="48.5" />
+		<pump x="-1603" y="-2711" z="48.5" />
+		<pump x="-1606" y="-2715" z="48.5" />
+		<pump x="-1609" y="-2720" z="48.5" />
+	</garage>
+
+	<garage name="CJ Petrol station SF" x="-2023" y="157" z="28">
+		<pump x="-2024" y="156" z="28.8" />
+                <pump x="-2029" y="156" z="28.8" />
+	</garage>
+
+	<garage name="Montgomery Village" x="1380" y="463" z="20">
+		<pump x="1378.5" y="458.5" z="20" />
+		<pump x="1383" y="456" z="20" />
+	</garage>
+
+
+	<garage name="Tierra Robada" x="-1464" y="1858" z="32">
+		<pump x="-1464" y="1858" z="32.5" />
+		<pump x="-1477" y="1857" z="32.5" />
+		<pump x="-1477" y="1865" z="32.5" />
+		<pump x="-1465" y="1866" z="32.5" />
+	</garage>
+
+
+    <garage name="LV3" x="604" y="1704.5" z="6.9">
+		<pump x="604" y="1704.5" z="6.9" />
+		<pump x="608.4" y="1699.6" z="6.9" />
+		<pump x="611.9" y="1694.9" z="6.9" />
+		<pump x="615.4" y="1689.9" z="6.9" />
+		<pump x="618.6" y="1684.8" z="6.9" />
+		<pump x="622.2" y="1680" z="6.9" />
+	</garage>
+
+</data>

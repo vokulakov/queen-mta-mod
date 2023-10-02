@@ -1,0 +1,19 @@
+********************************************************************************
+	Project owner:		Vladimir Kulakov
+    Owner Contacts: 	vk:		vk.com/vokulakov
+    					tg: 	@vokulakov
+    					inst:	@vokulakov
+
+	Project name: 		Queen × MTA:SA
+	Project link: 		vk.com/mtaqueen
+	Developers:   		vokulakov
+	
+	Version:    		Closed source
+	Status:     		Pre-Alpha
+********************************************************************************
+
+-- startup --
+
+	@cmd [start] 	- запуск мода
+	@cmd [stop]  	- остановка мода
+	@cmd [restart]	- рестарт мода

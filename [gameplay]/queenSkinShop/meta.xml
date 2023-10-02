@@ -1,0 +1,7 @@
+<meta>
+	<oop>true</oop>
+	<script type='shared' cache='false' src='assets/shared.lua' />
+	<script type='client' cache='false' src='client/main.lua' />
+	
+	<script type='server' src='server/server.lua' />
+</meta>

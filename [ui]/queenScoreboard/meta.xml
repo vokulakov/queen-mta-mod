@@ -1,0 +1,13 @@
+<meta>
+	<oop>true</oop>
+	<min_mta_version client="1.5.6-9.16404" server="1.5.5-9.11915.0" />
+	<download_priority_group>-100</download_priority_group>
+
+	<include resource="queenFonts" />
+	<include resource="queenTextures" />
+	<include resource="queenShaders" />
+
+	<file src="assets/bg.png" />
+
+	<script type="client" cache="false" src="main.lua" />
+</meta>

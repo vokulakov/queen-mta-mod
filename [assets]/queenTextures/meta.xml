@@ -1,0 +1,85 @@
+<meta>
+	<oop>true</oop>
+	<min_mta_version client="1.5.6-9.16404" server="1.5.5-9.11915.0" />
+	<download_priority_group>99</download_priority_group>
+	
+	<!-- SYSTEM IMAGE -->
+
+	<file src="assets/system_img/load.png" />
+	<file src="assets/system_img/queen_logo.png" />
+	<file src="assets/system_img/welcome_screen.png" />
+
+	<!-- HUD IMAGE -->
+	<file src="assets/hud_img/blips/+1.png" />
+	<file src="assets/hud_img/blips/-1.png" />
+	<file src="assets/hud_img/blips/0.png" />
+	<file src="assets/hud_img/blips/2.png" />
+	<file src="assets/hud_img/blips/11.png" />
+	<file src="assets/hud_img/blips/12.png" />
+	<file src="assets/hud_img/blips/18.png" />
+	<file src="assets/hud_img/blips/22.png" />
+	<file src="assets/hud_img/blips/25.png" />
+	<file src="assets/hud_img/blips/27.png" />
+	<file src="assets/hud_img/blips/31.png" />
+	<file src="assets/hud_img/blips/32.png" />
+	<file src="assets/hud_img/blips/4.png" />
+	<file src="assets/hud_img/blips/41.png" />
+	<file src="assets/hud_img/blips/43.png" />
+	<file src="assets/hud_img/blips/44.png" />
+	<file src="assets/hud_img/blips/45.png" />
+	<file src="assets/hud_img/blips/47.png" />
+	<file src="assets/hud_img/blips/50.png" />
+	<file src="assets/hud_img/blips/51.png" />
+	<file src="assets/hud_img/blips/52.png" />
+	<file src="assets/hud_img/blips/55.png" />
+	<file src="assets/hud_img/blips/56.png" />
+	<file src="assets/hud_img/blips/57.png" />
+	<file src="assets/hud_img/blips/63.png" />
+
+	<file src="assets/hud_img/blips/17.png" />
+	<!-- UI IMAGE -->
+
+	<file src="assets/ui_img/buttons/b_enter.png" />
+	<file src="assets/ui_img/buttons/b_esc.png" />
+	<file src="assets/ui_img/buttons/b_f10.png" />
+	<file src="assets/ui_img/buttons/b_f11.png" />
+	<file src="assets/ui_img/buttons/b_f12.png" />
+	<file src="assets/ui_img/buttons/b_lalt.png" />
+	<file src="assets/ui_img/buttons/b_ralt.png" />
+	<file src="assets/ui_img/buttons/b_lctrl.png" />
+	<file src="assets/ui_img/buttons/b_rctrl.png" />
+	<file src="assets/ui_img/buttons/b_lshift.png" />
+	<file src="assets/ui_img/buttons/b_rshift.png" />
+
+	<file src="assets/ui_img/buttons/b_num0.png" /> 
+	<file src="assets/ui_img/buttons/b_num1.png" /> 
+	<file src="assets/ui_img/buttons/b_num2.png" /> 
+	<file src="assets/ui_img/buttons/b_num3.png" /> 
+	<file src="assets/ui_img/buttons/b_num4.png" /> 
+	<file src="assets/ui_img/buttons/b_num5.png" /> 
+	<file src="assets/ui_img/buttons/b_num6.png" /> 
+	<file src="assets/ui_img/buttons/b_num7.png" />
+	<file src="assets/ui_img/buttons/b_num9.png" />
+	<file src="assets/ui_img/buttons/b_space.png" />
+	<file src="assets/ui_img/buttons/b_tab.png" />
+	<file src="assets/ui_img/buttons/b_e.png" />
+
+	<file src="assets/ui_img/buttons/mouse.png" />
+	<file src="assets/ui_img/buttons/mouse_down.png" />
+	<file src="assets/ui_img/buttons/mouse_left.png" />
+	<file src="assets/ui_img/buttons/mouse_right.png" />
+	<file src="assets/ui_img/buttons/mouse_up.png" />
+	<file src="assets/ui_img/buttons/mouse_wheel.png" />
+
+	<file src="assets/ui_img/panel/pane.png" />
+	<file src="assets/ui_img/panel/round_1.png" />
+	<file src="assets/ui_img/panel/round_2.png" />
+	<file src="assets/ui_img/panel/round_3.png" />
+	<file src="assets/ui_img/panel/round_4.png" />
+
+
+	<script type="client" cache="false" src="export.lua" />
+
+	<export type="client" function="staticImage" />
+	<export type="client" function="createTexture" />
+</meta>

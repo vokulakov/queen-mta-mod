@@ -1,0 +1,40 @@
+<meta>
+	<oop>true</oop>
+	<min_mta_version client="1.5.6-9.16404" server="1.5.5-9.11915.0" />
+	<download_priority_group>99</download_priority_group>
+
+
+	<file src="assets/systems_sound/load_sound.mp3" />
+	<file src="assets/systems_sound/login_sound.mp3" />
+	<file src="assets/systems_sound/mission_sound.mp3" />
+	<file src="assets/systems_sound/error.wav" />
+	<file src="assets/systems_sound/notify.mp3" />
+	<file src="assets/systems_sound/sound_eat1.mp3" />
+	<file src="assets/systems_sound/sound_eat2.mp3" />
+	<file src="assets/systems_sound/azs_pistolet_insert.wav" />
+	<file src="assets/systems_sound/azs_pistolet_remove.wav" />
+	<file src="assets/systems_sound/azs_zapravka.wav" />
+	
+	<file src="assets/systems_sound/ui_change.wav" />
+	<file src="assets/systems_sound/ui_select.wav" />
+	<file src="assets/systems_sound/ui_back.wav" />
+
+	<file src="assets/interiors/sound_restaurant.mp3" />
+	<file src="assets/interiors/sound_skinshop.mp3" />
+
+	<!-- -->
+	<file src="assets/vehicles/signal/sound_a.wav" />
+	<file src="assets/vehicles/signal/sound_b.wav" />
+
+	<file src="assets/vehicles/doorlock.mp3" />
+	<file src="assets/vehicles/lightswitch.mp3" />
+	<file src="assets/vehicles/turnsignal.mp3" />
+	<file src="assets/vehicles/starter_car.mp3" />
+	<file src="assets/vehicles/starter_moto.wav" />
+
+	<script type="client" cache="false" src="client/ui_onClick.lua" />
+	<script type="client" cache="false" src="export.lua" />
+
+	<export type="client" function="playSound" />
+	<export type="client" function="playSound3D" />
+</meta>

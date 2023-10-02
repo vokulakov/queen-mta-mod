@@ -1,0 +1,18 @@
+<meta>
+	<oop>true</oop>
+	
+	<file src="assets/model/296.txd" />
+	<file src="assets/model/296.dff" />
+	
+	<file src="assets/sound/music.mp3" />
+	<file src="assets/sound/heart.mp3" />
+	<file src="assets/sound/tinnitus.ogg" />
+
+	<script type="shared" cache="false" src="assets/shared.lua" />
+
+	<script type="client" cache="false" src="client/replace.lua" />
+	<script type="client" cache="false" src="client/main.lua" />
+	<script type="client" cache="false" src="client/deadScreen.lua" />
+
+	<script type="server" src="server/server.lua" />
+</meta>

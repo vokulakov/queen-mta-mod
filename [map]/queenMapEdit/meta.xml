@@ -1,0 +1,14 @@
+<meta>
+
+    <map src="assets/dockLS.map" dimension="0"></map>
+	<map src="assets/spawn.map" dimension="0"></map>
+	
+    <script src="assets/map_as/objDelete.lua" type="server" />
+    <map src="assets/map_as/map_autosc.map" dimension="0"></map>
+    <map src="assets/map_as/map_autodrom.map" dimension="0"></map>
+    <map src="assets/map_as/map_gate.map" dimension="0"></map>
+
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+
+</meta>
